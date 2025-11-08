@@ -34,7 +34,7 @@ server.tool(
         content: [
           {
             type: 'text',
-            text: `City ${city} not found.`,
+            text: `City ${city} is not found.`,
           }
         ]
       }
